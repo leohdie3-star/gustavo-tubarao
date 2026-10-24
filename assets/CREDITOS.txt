@@ -1,0 +1,16 @@
+Todas as fotos deste site são quadros extraídos de vídeos PÚBLICOS do canal oficial do Gustavo Tubarão no YouTube
+(https://www.youtube.com/channel/UCHw2kqsZz__ACHCo1NuzAqA). Nenhuma imagem de banco. Origem por arquivo:
+hero/f001-f096  -> youtube.com/shorts/N-0BPobTjF4  "Final de tarde aqui na roça ❤️"
+img/sobre       -> youtube.com/shorts/zVtual0ZP3M  "Caçando meus gado comigo, diaria da roça." (quadro em 24s)
+img/tropa-cavalo-> youtube.com/shorts/9sNZpARILxs
+img/tropa-bufalo-> youtube.com/shorts/N-0BPobTjF4
+img/tropa-porco -> youtube.com/shorts/CBhO4LbP_o8  "BOM DIA TURMA! INTEGRANTE NOVO" (miniatura oficial)
+img/tropa-vaca  -> youtube.com/shorts/wlq47OQxOvA  "É um cachorro no corpo de uma mini vaca"
+img/tropa-cachorro -> youtube.com/shorts/PnRDei5uKnw (miniatura oficial do Short)
+img/agro-gado   -> youtube.com/shorts/zVtual0ZP3M  "Caçando meus gado comigo, diaria da roça."
+img/agro-barretos -> youtube.com/shorts/1plFeQWNReI "Dear rodeo ❤️ #barretos"
+img/agro-cavalgada -> youtube.com/shorts/2S306RSzQzI "COMEÇOU A CAVALGADA DOS LARGO"
+img/agro-roca   -> youtube.com/shorts/YCChfcJgr5w  "Barretao ❤️"
+og.jpg          -> composição tipográfica com quadro de N-0BPobTjF4
+fonts/          -> Big Shoulders Display, Fraunces, Caveat (Google Fonts, licença SIL OFL), hospedadas no próprio site
+Site conceito feito pela Consultoria Digital (não oficial até aprovação do Gustavo/Rodadig).
