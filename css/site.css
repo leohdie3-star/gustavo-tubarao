@@ -84,6 +84,7 @@ h3{font-family:var(--display);font-weight:800;text-transform:uppercase;letter-sp
 .rule{width:56px;height:1px;background:var(--ambar)}
 .wordmark{font-family:var(--display);font-weight:900;text-transform:uppercase;line-height:.8;letter-spacing:-.012em;font-size:clamp(4.6rem,15.2vw,17rem);margin:.18em 0 .12em;mix-blend-mode:normal;text-shadow:0 10px 40px rgba(0,0,0,.35)}
 .wm-line{display:block;overflow:hidden;padding:.2em 0 .02em;margin-top:-.2em}
+.wm-line:nth-child(2){margin-top:-.12em}
 .wm-in{display:block;position:relative}
 .wm-line:nth-child(2) .wm-in{color:var(--ambar);padding-left:.62em}
 .wm-seal{font-style:normal;font-size:.16em;vertical-align:top;margin-left:.15em;display:inline-block;transform:translateY(.55em);filter:saturate(.6)}
