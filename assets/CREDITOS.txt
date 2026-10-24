@@ -14,3 +14,5 @@ img/agro-roca   -> youtube.com/shorts/YCChfcJgr5w  "Barretao ❤️"
 og.jpg          -> composição tipográfica com quadro de N-0BPobTjF4
 fonts/          -> Big Shoulders Display, Fraunces, Caveat (Google Fonts, licença SIL OFL), hospedadas no próprio site
 Site conceito feito pela Consultoria Digital (não oficial até aprovação do Gustavo/Rodadig).
+
+Atualizacao 24/10: fotos refeitas a partir dos videos em 1080p e ampliadas para 4K (2160x3840) com Real-ESRGAN (IA local, gratis); o celular recebe a versao 1080. Quadros do hero em 1080x1920.
